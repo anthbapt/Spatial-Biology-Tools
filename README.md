@@ -9,10 +9,6 @@
  Spatial Transcriptomics Tools
  </h1>
 
-
-* [scverse](https://scverse.org/packages/#ecosystem)
-* [xb best practices](https://github.com/Moldia/Xenium_benchmarking)
-
 ## Segmentation
 
 | Name       | Released | Documentation | Links |
