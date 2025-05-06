@@ -77,6 +77,9 @@
 | [Monae]()    | ../.. | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
 | [ISS-Patcher]()    | ../.. | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
 | [ISS-SpatialScope]()    | ../.. | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
+| [STACI]()    | ../.. | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
+| [INSTINCT]()    | ../.. | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
+| [STAligner]()    | ../.. | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
 | [DeepTalk](https://www.nature.com/articles/s41467-024-51329-2)    | 08/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://deeptalk.readthedocs.io/en/latest/index.htmll)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/JiangBioLab/DeepTalk) |
 
 
