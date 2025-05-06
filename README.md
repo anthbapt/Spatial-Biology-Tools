@@ -91,6 +91,11 @@ The following tools are Python-based and suitable for working with [**SpatialDat
 | ---------- | -------  | ------------- | ----- |
 | [SpaGFT](https://www.nature.com/articles/s41467-024-51590-5)    | 08/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://spagft.readthedocs.io/en/latest)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/OSU-BMBL/SpaGFT)|
 | [MuSpan]()    | ../.. | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
+| [Bento]()    | ../.. | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
+| [STANDS]()    | ../.. | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
+| [InSTAnT]()    | ../.. | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
+
+
 
 ## ✨ Contributors
 
