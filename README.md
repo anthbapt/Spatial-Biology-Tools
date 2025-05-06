@@ -23,12 +23,8 @@
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
 | [TANGRAM](https://www.nature.com/articles/s41592-021-01264-7)    | 10/2021 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://tangram-sc.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/broadinstitute/Tangram) |
-
-## Cell typing
-
-* [cellTypist](https://www.celltypist.org)
-* [TANGRAM](https://tangram-sc.readthedocs.io/en/latest/)
-* [cell2location](https://cell2location.readthedocs.io/en/latest/)
+| [cell2location](https://www.nature.com/articles/s41587-021-01139-4)    | 01/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://cell2location.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/BayraktarLab/cell2location/tree/master) |
+| [cellTypist](https://www.science.org/doi/10.1126/science.abl5197)    | 05/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://www.celltypist.org) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Teichlab/celltypist) |
 
 ### Domaine identification
 
