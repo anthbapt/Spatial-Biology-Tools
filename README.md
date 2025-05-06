@@ -58,6 +58,13 @@
 | [DeepTalk](https://www.nature.com/articles/s41467-024-51329-2)    | 08/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://deeptalk.readthedocs.io/en/latest/index.htmll)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/JiangBioLab/DeepTalk) |
 | [NicheCompass](https://www.nature.com/articles/s41588-025-02120-6)    | 03/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://nichecompass.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Lotfollahi-lab/nichecompass/tree/main)|
 
+### Dimension reduction
+| Name       | Released | Documentation | Links |
+| ---------- | -------  | ------------- | ----- |
+| [SpatialPCA](https://www.nature.com/articles/s41467-022-34879-1)    | 11/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
+| [STAMP](https://www.nature.com/articles/s41592-024-02463-8)    | 10/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
+
+
 ### Other tools
 
 | Name       | Released | Documentation | Links |
