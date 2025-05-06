@@ -28,34 +28,44 @@
 
 ### Domaine identification
 
-* [STAGATE](https://stagate.readthedocs.io/en/latest/index.html)
-* [SpaGCN](https://github.com/jianhuupenn/SpaGCN)
-* [Banksy](https://github.com/prabhakarlab/Banksy_py)
+| Name       | Released | Documentation | Links |
+| ---------- | -------  | ------------- | ----- |
+| [SpaGCN](https://www.nature.com/articles/s41592-021-01255-8)    | 10/2021 | N/A| [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/jianhuupenn/SpaGCN) |
+| [STAGATE](https://www.nature.com/articles/s41467-022-29439-6)    | 04/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://stagate.readthedocs.io/en/latest/index.html) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/zhanglabtools/STAGATE) |
+| [Banksy](https://www.nature.com/articles/s41588-024-01664-3)    | 02/2024 | N/A [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/prabhakarlab/Banksy_py) |
 
 ### Genes imputation
 
-* [TANGRAM](https://tangram-sc.readthedocs.io/en/latest/)
-* [SpaOTsc](https://github.com/zcang/SpaOTsc)
-* [SpaGE](https://github.com/tabdelaal/SpaGE)
-* [novoSpaRc](https://github.com/rajewsky-lab/novosparc)
+| Name       | Released | Documentation | Links |
+| ---------- | -------  | ------------- | ----- |
+| [SpaOTsc](https://www.nature.com/articles/s41467-020-15968-5)    | 04/2020 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/zcang/SpaOTsc) |
+| [SpaGE](https://academic.oup.com/nar/article/48/18/e107/5909530?login=true)   | 09/2020 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/tabdelaal/SpaGE) |
+| [novoSpaRc](https://www.nature.com/articles/s41596-021-00573-7)    | 08/2021 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/rajewsky-lab/novosparc) |
+| [TANGRAM](https://www.nature.com/articles/s41592-021-01264-7)    | 10/2021 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://tangram-sc.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/broadinstitute/Tangram) |
 
 ### Spatially variable genes
 
-* [SpatialDE](https://github.com/Teichlab/SpatialDE)
-* [SINFONIA](https://github.com/BioX-NKU/SINFONIA)
+| Name       | Released | Documentation | Links |
+| ---------- | -------  | ------------- | ----- |
+| [SpatialDE](https://www.nature.com/articles/nmeth.4636)    | 03/2018 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Teichlab/SpatialDE) |
+| [SINFONIA](https://www.mdpi.com/2073-4409/12/4/604)    | 02/2023 |  | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://sinfonia-svg.readthedocs.io/en/latest/index.html) |   [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/BioX-NKU/SINFONIA) |
 
 ### Cell-cell communications
 
-* [DeepTalk](https://github.com/JiangBioLab/DeepTalk)
-* [NicheCompass](https://nichecompass.readthedocs.io/en/latest/)
-* [COMMOT](https://github.com/zcang/COMMOT)
-* [CellphoneDB](https://github.com/ventolab/CellphoneDB)
-* [NCEM](https://github.com/theislab/ncem)
-* [FlowSig](https://github.com/axelalmet/flowsig)
+| Name       | Released | Documentation | Links |
+| ---------- | -------  | ------------- | ----- |
+| [CellphoneDB](https://www.nature.com/articles/s41586-018-0698-6)    | 11/2018 | <img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://www.cellphonedb.org)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ventolab/CellphoneDB)|
+| [NCEM](https://www.nature.com/articles/s41587-022-01467-z)    | 10/2022 | <img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://ncem.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/theislab/ncem)|
+| [COMMOT](https://www.nature.com/articles/s41592-022-01728-4)    | 01/2023 | <img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://commot.readthedocs.io/en/latest/index.html)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/zcang/COMMOT)|
+| [FlowSig](https://www.nature.com/articles/s41592-024-02380-w)    | 08/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/axelalmet/flowsig)|
+| [DeepTalk](https://www.nature.com/articles/s41467-024-51329-2)    | 08/2024 | <img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://deeptalk.readthedocs.io/en/latest/index.htmll)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/JiangBioLab/DeepTalk) |
+| [NicheCompass](https://www.nature.com/articles/s41588-025-02120-6)    | 03/2025 | <img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://nichecompass.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Lotfollahi-lab/nichecompass/tree/main)|
 
 ### Other tools
 
-* [SpaGFT](https://github.com/OSU-BMBL/SpaGFT)
+| Name       | Released | Documentation | Links |
+| ---------- | -------  | ------------- | ----- |
+| [SpaGFT](https://www.nature.com/articles/s41467-024-51590-5)    | 08/2024 | <img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://spagft.readthedocs.io/en/latest)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/OSU-BMBL/SpaGFT)|
 
 ## ✨ Contributors
 
