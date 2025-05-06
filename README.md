@@ -8,18 +8,25 @@
 </p>
 
 
-# Bibliography
-
-## Downstream analysis
+<div align="center">
+<h1>Spatial Transcriptomics Tools</h1>
+</div>
 
 * [scverse](https://scverse.org/packages/#ecosystem)
 * [xb best practices](https://github.com/Moldia/Xenium_benchmarking)
 
-### Segmentation
+## Segmentation
 
 * [sopa](https://gustaveroussy.github.io/sopa/)
 
-### Cell typing
+  
+## Cell typing
+
+| Name       | Released      | Links                                                                                                                                                        |
+| ---------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TANGRAM    | 10/2021       | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://tangram-sc.readthedocs.io/en/latest/) |
+
+## Cell typing
 
 * [cellTypist](https://www.celltypist.org)
 * [TANGRAM](https://tangram-sc.readthedocs.io/en/latest/)
