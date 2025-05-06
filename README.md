@@ -63,6 +63,7 @@
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
 | [SpaGFT](https://www.nature.com/articles/s41467-024-51590-5)    | 08/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://spagft.readthedocs.io/en/latest)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/OSU-BMBL/SpaGFT)|
+| [MuSpan]()    | /2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">]()  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]()|
 
 ## ✨ Contributors
 
