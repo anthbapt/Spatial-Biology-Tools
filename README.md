@@ -6,9 +6,8 @@
 </div>
 
 
-<div align="center">
-<h1>Spatial Transcriptomics Tools</h1>
-</div>
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp Spatial Transcriptomics Tools
+
 
 * [scverse](https://scverse.org/packages/#ecosystem)
 * [xb best practices](https://github.com/Moldia/Xenium_benchmarking)
