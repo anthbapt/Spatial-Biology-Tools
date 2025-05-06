@@ -22,9 +22,9 @@
   
 ## Cell typing
 
-| Name       | Released | Links |
-| ---------- | -------  | ----- |
-| [TANGRAM](https://www.nature.com/articles/s41592-021-01264-7)    | 10/2021  | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://tangram-sc.readthedocs.io/en/latest/) |
+| Name       | Released | Documentation | Links |
+| ---------- | -------  | ------------- | ----- |
+| [TANGRAM](https://www.nature.com/articles/s41592-021-01264-7)    | 10/2021 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://tangram-sc.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/broadinstitute/Tangram) |
 
 ## Cell typing
 
