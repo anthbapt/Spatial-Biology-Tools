@@ -95,6 +95,14 @@ The following tools are Python-based and suitable for working with [**SpatialDat
 | [MISO](https://www.nature.com/articles/s41592-024-02574-2)    | 01/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/kpcoleman/miso)|
 | [INSTINCT](https://www.nature.com/articles/s41467-025-56535-0)    | 02/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](N/A)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/yyLIU12138/INSTINCT)|
 
+### Foundation models
+
+| Name       | Released | Documentation | Links |
+| ---------- | -------  | ------------- | ----- |
+| [Nicheformer](https://www.biorxiv.org/content/10.1101/2024.04.15.589472v2)    | 10/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/theislab/nicheformer)|
+| [scGPT-spatial](https://www.biorxiv.org/content/10.1101/2025.02.05.636714v1)    | 02/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/bowang-lab/scGPT-spatial/tree/main)|
+
+
 ### Other tools
 
 | Name       | Released | Documentation | Links |
