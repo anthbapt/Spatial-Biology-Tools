@@ -24,13 +24,17 @@ The following tools are Python-based and suitable for working with [**SpatialDat
 | [TANGRAM](https://www.nature.com/articles/s41592-021-01264-7)    | 10/2021 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://tangram-sc.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/broadinstitute/Tangram) |
 | [cell2location](https://www.nature.com/articles/s41587-021-01139-4)    | 01/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://cell2location.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/BayraktarLab/cell2location/tree/master) |
 | [cellTypist](https://www.science.org/doi/10.1126/science.abl5197)    | 05/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://www.celltypist.org) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Teichlab/celltypist) |
+| [CellAnnotator](https://www.nature.com/articles/s41592-024-02235-4)   | 03/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://cell-annotator.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/quadbio/cell-annotator?tab=readme-ov-file) |
 
-### Domaine identification
+
+
+### Domain identification
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
 | [SpaGCN](https://www.nature.com/articles/s41592-021-01255-8)    | 10/2021 | N/A| [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/jianhuupenn/SpaGCN) |
 | [STAGATE](https://www.nature.com/articles/s41467-022-29439-6)    | 04/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://stagate.readthedocs.io/en/latest/index.html) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/zhanglabtools/STAGATE) |
+| [CellCharter](https://www.nature.com/articles/s41588-023-01588-4)    | 12/2023 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://cellcharter.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/CSOgroup/cellcharter) |
 | [Banksy](https://www.nature.com/articles/s41588-024-01664-3)   | 02/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/prabhakarlab/Banksy_py) |
 
 ### Genes imputation
@@ -48,6 +52,10 @@ The following tools are Python-based and suitable for working with [**SpatialDat
 | ---------- | -------  | ------------- | ----- |
 | [SpatialDE](https://www.nature.com/articles/nmeth.4636)    | 03/2018 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Teichlab/SpatialDE) |
 | [SINFONIA](https://www.mdpi.com/2073-4409/12/4/604)    | 02/2023 |  [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://sinfonia-svg.readthedocs.io/en/latest/index.html) |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/BioX-NKU/SINFONIA) |
+| [Maxspin](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00136-4)    | 06/2023 |  N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/dcjones/maxspin) |
+| [SC2Spa](https://www.biorxiv.org/content/10.1101/2023.08.22.554277v1)    | 08/2023 |  N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/linbuliao/SC2Spa?tab=readme-ov-file) |
+
+
 
 ### Cell-cell communications
 
@@ -93,6 +101,9 @@ The following tools are Python-based and suitable for working with [**SpatialDat
 | ---------- | -------  | ------------- | ----- |
 | [SpaCell](https://academic.oup.com/bioinformatics/article/36/7/2293/5663455?login=false)    | 04/2020 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/BiomedicalMachineLearning/SpaCell)|
 | [scArches](https://www.nature.com/articles/s41587-021-01001-7)    | 08/2021 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://docs.scarches.org/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/theislab/scarches)|
+| [eggplant](https://www.biorxiv.org/content/10.1101/2021.11.11.468178v1)    | 11/2021 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://spatial-eggplant.readthedocs.io/en/latest/index.html)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/almaan/eggplant/tree/master?tab=readme-ov-file)|
+| [scvi-tools](https://www.nature.com/articles/s41587-021-01206-w)    | 02/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://scvi-tools.org)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/scverse/scvi-tools)|
+| [PathML](https://aacrjournals.org/mcr/article/20/2/202/678062/Building-Tools-for-Machine-Learning-and-Artificial)    | 02/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://pathml.org)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Dana-Farber-AIOS/pathml)|
 | [stLearn](https://www.nature.com/articles/s41467-023-43120-6)    | 11/2023 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://stlearn.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/BiomedicalMachineLearning/stLearn)|
 | [Bento](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03217-7)    | 04/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://bento-tools.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/YeoLab/bento-tools)|
 | [SpaGFT](https://www.nature.com/articles/s41467-024-51590-5)    | 08/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://spagft.readthedocs.io/en/latest)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/OSU-BMBL/SpaGFT)|
