@@ -26,8 +26,6 @@ The following tools are Python-based and suitable for working with [**SpatialDat
 | [cellTypist](https://www.science.org/doi/10.1126/science.abl5197)    | 05/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://www.celltypist.org) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Teichlab/celltypist) |
 | [CellAnnotator](https://www.nature.com/articles/s41592-024-02235-4)   | 03/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://cell-annotator.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/quadbio/cell-annotator?tab=readme-ov-file) |
 
-
-
 ### Domain identification
 
 | Name       | Released | Documentation | Links |
@@ -106,6 +104,7 @@ The following tools are Python-based and suitable for working with [**SpatialDat
 | ---------- | -------  | ------------- | ----- |
 | [Nicheformer](https://www.biorxiv.org/content/10.1101/2024.04.15.589472v2)    | 10/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/theislab/nicheformer)|
 | [scGPT-spatial](https://www.biorxiv.org/content/10.1101/2025.02.05.636714v1)    | 02/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/bowang-lab/scGPT-spatial/tree/main)|
+| [SpatialAgent](https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1)    | 04/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Genentech/SpatialAgent)|
 
 
 ### Other tools
@@ -122,6 +121,7 @@ The following tools are Python-based and suitable for working with [**SpatialDat
 | [SpaGFT](https://www.nature.com/articles/s41467-024-51590-5)    | 08/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://spagft.readthedocs.io/en/latest)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/OSU-BMBL/SpaGFT)|
 | [InSTAnT](https://www.nature.com/articles/s41467-024-49457-w)    | 09/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/bhavaygg/InSTAnT)|
 | [MuSpan](https://www.biorxiv.org/content/10.1101/2024.12.06.627195v3)    | 02/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://www.muspan.co.uk)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/joshwillmoore1/MuSpAn-Public)|
+| [DeepSpot](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v1)    | 02/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ratschlab/DeepSpot/tree/main)|
 | [MESA](https://www.nature.com/articles/s41588-025-02119-z)    | 04/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://mesa-py.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Feanor007/MESA)|
 
 ## ✨ Contributors
