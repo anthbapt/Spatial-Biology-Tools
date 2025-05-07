@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">
- Spatial Transcriptomics Tools
+ Single Cell Spatial Transcriptomics Tools
  </h1>
 
 The following tools are Python-based and suitable for working with [**SpatialData**](https://spatialdata.scverse.org/en/stable/tutorials/notebooks/notebooks/examples/intro.html) objects or compatible objects such as [**AnnData**](https://anndata.readthedocs.io/en/stable/index.html) (used in Scanpy and Squidpy).
