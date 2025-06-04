@@ -29,7 +29,7 @@
 | [Nico](https://www.nature.com/articles/s41467-024-54973-w)   | 12/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://nico-sc-sp.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://pypi.org/project/nico-sc-sp/) |
 
 
-### Domain identification
+## Domain identification
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -45,7 +45,7 @@
 | [SCGP](https://www.sciencedirect.com/science/article/pii/S266723752400211X?via%3Dihub)    | 08/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://gitlab.com/enable-medicine-public/scgp)|
 
 
-### Genes imputation
+## Genes imputation
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -54,7 +54,7 @@
 | [novoSpaRc](https://www.nature.com/articles/s41596-021-00573-7)    | 08/2021 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/rajewsky-lab/novosparc) |
 | [TANGRAM](https://www.nature.com/articles/s41592-021-01264-7)    | 10/2021 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://tangram-sc.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/broadinstitute/Tangram) |
 
-### Spatially variable genes
+## Spatially variable genes
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -67,7 +67,7 @@
 
 
 
-### Cell-cell communications
+## Cell-cell communications
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -85,7 +85,7 @@
 | [scNiche](https://www.nature.com/articles/s41467-025-57029-9)    | 02/2025 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ZJUFanLab/scNiche)|
 | [NicheCompass](https://www.nature.com/articles/s41588-025-02120-6)    | 03/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://nichecompass.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Lotfollahi-lab/nichecompass/tree/main)|
 
-### Dimension reduction
+## Dimension reduction
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -93,7 +93,7 @@
 | [STAMP](https://www.nature.com/articles/s41592-024-02463-8)    | 10/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://jinmiaochenlab.github.io/scTM/notebooks/stamp/Simulation/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/JinmiaoChenLab/scTM)|
 | [GraphPCA](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03429-x)    | 11/2024 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/YANG-ERA/GraphPCA)|
 
-### Multimodal integration
+## Multimodal integration
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -115,7 +115,7 @@
 
 
 
-### Foundation models
+## Foundation models
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -124,7 +124,7 @@
 | [SpatialAgent](https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1)    | 04/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Genentech/SpatialAgent)|
 
 
-### Other tools
+## Other tools
 
 | Name       | Released | Purpose  | Documentation | Links |
 | ---------- | -------  | -------- | ------------- | ----- |
