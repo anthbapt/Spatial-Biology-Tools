@@ -45,7 +45,6 @@
 | [SCGP](https://www.sciencedirect.com/science/article/pii/S266723752400211X?via%3Dihub)    | 08/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://gitlab.com/enable-medicine-public/scgp)|
 | [SpaGT](https://www.sciencedirect.com/science/article/pii/S266723752400211X?via%3Dihub)    | 04/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://spagt-tutorial.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/xy428/SpaGT)|
 
-https://spagt-tutorial.readthedocs.io/en/latest/
 ## Genes imputation
 
 | Name       | Released | Documentation | Links |
