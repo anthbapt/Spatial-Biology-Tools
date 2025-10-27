@@ -52,8 +52,8 @@ Tools for quality control and artifact detection in spatial transcriptomics data
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
-| [SpatialQC](https://academic.oup.com/bioinformatics/article/40/8/btae458/7720780)    | 08/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/mgy520/spatialQC)|
-| [MerQuaCo](https://elifesciences.org/reviewed-preprints/105149)    | 03/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/AllenInstitute/merquaco) |
+| [SpatialQC](https://academic.oup.com/bioinformatics/article/40/8/btae458/7720780)    | 08/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://mgy520.github.io/SpatialQC/)| [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/mgy520/spatialQC)|
+| [MerQuaCo](https://elifesciences.org/reviewed-preprints/105149)    | 03/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://merquaco.readthedocs.io/en/latest/index.html) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/AllenInstitute/merquaco) |
 
 ---
 
