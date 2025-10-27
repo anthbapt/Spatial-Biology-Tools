@@ -7,18 +7,57 @@
 
 <h1 align="center">
  Single Cell Spatial Transcriptomics Tools
- </h1>
+</h1>
 
-⚠️ The following tools are Python-based and suitable for working with [**SpatialData**](https://spatialdata.scverse.org/en/stable/tutorials/notebooks/notebooks/examples/intro.html) objects or compatible objects such as [**AnnData**](https://anndata.readthedocs.io/en/stable/index.html) (used in Scanpy and Squidpy).
+<div align="center">
 
-## Segmentation
+  ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+  ![Tools](https://img.shields.io/badge/Tools-100%2B-green)
+  ![License](https://img.shields.io/badge/License-MIT-yellow)
+  ![Updated](https://img.shields.io/badge/Last%20Updated-October%202025-orange)
+
+</div>
+
+---
+
+<div align="center">
+
+> **Note**: The following tools are Python-based and suitable for working with [**SpatialData**](https://spatialdata.scverse.org/en/stable/tutorials/notebooks/notebooks/examples/intro.html) objects or compatible objects such as [**AnnData**](https://anndata.readthedocs.io/en/stable/index.html) (used in Scanpy and Squidpy).
+
+</div>
+
+---
+
+## Table of Contents
+
+- [Segmentation](#segmentation)
+- [Cell typing](#cell-typing)
+- [Domain identification](#domain-identification)
+- [Genes imputation](#genes-imputation)
+- [Spatially variable genes](#spatially-variable-genes)
+- [Cell-cell communications](#cell-cell-communications)
+- [Dimension reduction](#dimension-reduction)
+- [Multimodal integration](#multimodal-integration)
+- [Foundation models](#foundation-models)
+- [Other tools](#other-tools)
+- [Contributors](#-contributors)
+
+---
+
+## 🔬 Segmentation
+
+Tools for cell segmentation and boundary detection in spatial transcriptomics data.
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
 | [sopa](https://www.nature.com/articles/s41467-024-48981-z)    | 06/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://www.celltypist.org) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://gustaveroussy.github.io/sopa/) |
 | [CellSAM](https://www.biorxiv.org/content/10.1101/2023.11.17.567630v5)    | 02/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/vanvalenlab/cellsam) |
-  
-## Cell typing
+
+---
+
+## 🏷️ Cell typing
+
+Tools for annotating and classifying cell types in spatial data.
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -28,8 +67,11 @@
 | [CellAnnotator](https://www.nature.com/articles/s41592-024-02235-4)   | 03/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://cell-annotator.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/quadbio/cell-annotator?tab=readme-ov-file) |
 | [Nico](https://www.nature.com/articles/s41467-024-54973-w)   | 12/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://nico-sc-sp.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://pypi.org/project/nico-sc-sp/) |
 
+---
 
-## Domain identification
+## 🗺️ Domain identification
+
+Tools for identifying and clustering spatial domains and tissue structures.
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -45,7 +87,11 @@
 | [SCGP](https://www.sciencedirect.com/science/article/pii/S266723752400211X?via%3Dihub)    | 08/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://gitlab.com/enable-medicine-public/scgp)|
 | [SpaGT](https://www.sciencedirect.com/science/article/pii/S266723752400211X?via%3Dihub)    | 04/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://spagt-tutorial.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/xy428/SpaGT)|
 
-## Genes imputation
+---
+
+## 🧬 Genes imputation
+
+Tools for imputing missing gene expression values in spatial datasets.
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -54,7 +100,11 @@
 | [novoSpaRc](https://www.nature.com/articles/s41596-021-00573-7)    | 08/2021 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/rajewsky-lab/novosparc) |
 | [TANGRAM](https://www.nature.com/articles/s41592-021-01264-7)    | 10/2021 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://tangram-sc.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/broadinstitute/Tangram) |
 
-## Spatially variable genes
+---
+
+## 📊 Spatially variable genes
+
+Tools for identifying genes with spatial expression patterns.
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -65,9 +115,11 @@
 | [Maxspin](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00136-4)    | 06/2023 |  N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/dcjones/maxspin) |
 | [SC2Spa](https://www.biorxiv.org/content/10.1101/2023.08.22.554277v1)    | 08/2023 |  N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/linbuliao/SC2Spa?tab=readme-ov-file) |
 
+---
 
+## 💬 Cell-cell communications
 
-## Cell-cell communications
+Tools for analyzing intercellular communication and signaling pathways.
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -85,7 +137,11 @@
 | [scNiche](https://www.nature.com/articles/s41467-025-57029-9)    | 02/2025 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ZJUFanLab/scNiche)|
 | [NicheCompass](https://www.nature.com/articles/s41588-025-02120-6)    | 03/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://nichecompass.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Lotfollahi-lab/nichecompass/tree/main)|
 
-## Dimension reduction
+---
+
+## 📐 Dimension reduction
+
+Tools for reducing dimensionality while preserving spatial information.
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -93,7 +149,11 @@
 | [STAMP](https://www.nature.com/articles/s41592-024-02463-8)    | 10/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://jinmiaochenlab.github.io/scTM/notebooks/stamp/Simulation/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/JinmiaoChenLab/scTM)|
 | [GraphPCA](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03429-x)    | 11/2024 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/YANG-ERA/GraphPCA)|
 
-## Multimodal integration
+---
+
+## 🔗 Multimodal integration
+
+Tools for integrating multiple data modalities and spatial omics datasets.
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -112,10 +172,11 @@
 | [MISO](https://www.nature.com/articles/s41592-024-02574-2)    | 01/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/kpcoleman/miso)|
 | [INSTINCT](https://www.nature.com/articles/s41467-025-56535-0)    | 02/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](N/A)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/yyLIU12138/INSTINCT)|
 
+---
 
+## 🤖 Foundation models
 
-
-## Foundation models
+Large-scale pre-trained models for spatial transcriptomics analysis.
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
@@ -123,8 +184,11 @@
 | [scGPT-spatial](https://www.biorxiv.org/content/10.1101/2025.02.05.636714v1)    | 02/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/bowang-lab/scGPT-spatial/tree/main)|
 | [SpatialAgent](https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1)    | 04/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Genentech/SpatialAgent)|
 
+---
 
-## Other tools
+## 🛠️ Other tools
+
+Additional specialized tools for spatial transcriptomics analysis.
 
 | Name       | Released | Purpose  | Documentation | Links |
 | ---------- | -------  | -------- | ------------- | ----- |
@@ -143,13 +207,24 @@
 | [DeepSpot](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v1)    | 02/2025 | Spatial transcriptomics Prediction from H&E images | N/A  | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ratschlab/DeepSpot/tree/main)|
 | [MESA](https://www.nature.com/articles/s41588-025-02119-z)    | 04/2025 | ecological inspired spatial analysis | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://mesa-py.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Feanor007/MESA)|
 
-
-
-
-
+---
 
 ## ✨ Contributors
 
-|<img src="https://api.dicebear.com/9.x/rings/svg?seed=Anthony%20Baptista" width="100px">   |
-|------------------------------------------------------------------------------------------|
-| Anthony Baptista                                                                         |
+<div align="center">
+
+| <img src="https://api.dicebear.com/9.x/rings/svg?seed=Anthony%20Baptista" width="100px"> |
+|:----------------------------------------------------------------------------------------:|
+| **Anthony Baptista**                                                                     |
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with dedication for the spatial biology community**
+
+If you find this resource helpful, please consider starring the repository!
+
+</div>
