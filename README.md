@@ -12,7 +12,7 @@
 <div align="center">
 
   ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-  ![Tools](https://img.shields.io/badge/Tools-100%2B-green)
+  ![Tools](https://img.shields.io/badge/Tools-150%2B-green)
   ![License](https://img.shields.io/badge/License-MIT-yellow)
   ![Updated](https://img.shields.io/badge/Last%20Updated-October%202025-orange)
 
@@ -30,8 +30,10 @@
 
 ## Table of Contents
 
+- [Quality Control](#-quality-control)
 - [Segmentation](#segmentation)
 - [Cell typing](#cell-typing)
+- [Cell Deconvolution](#-cell-deconvolution)
 - [Domain identification](#domain-identification)
 - [Genes imputation](#genes-imputation)
 - [Spatially variable genes](#spatially-variable-genes)
@@ -44,6 +46,18 @@
 
 ---
 
+## 🔍 Quality Control
+
+Tools for quality control and artifact detection in spatial transcriptomics data.
+
+| Name       | Released | Documentation | Links |
+| ---------- | -------  | ------------- | ----- |
+| [SpotSweeper](https://www.nature.com/articles/s41592-025-02713-3)    | 06/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/MarcElosua/SpotSweeper) |
+| [SpatialQC](https://academic.oup.com/bioinformatics/article/40/8/btae458/7720780)    | 08/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/yuliangwang/SpatialQC) |
+| [MerQuaCo](https://elifesciences.org/reviewed-preprints/105149)    | 03/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/EinarOlafsson/MerQuaCo) |
+
+---
+
 ## 🔬 Segmentation
 
 Tools for cell segmentation and boundary detection in spatial transcriptomics data.
@@ -51,7 +65,10 @@ Tools for cell segmentation and boundary detection in spatial transcriptomics da
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
 | [sopa](https://www.nature.com/articles/s41467-024-48981-z)    | 06/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://www.celltypist.org) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://gustaveroussy.github.io/sopa/) |
+| [BOMS](https://www.biorxiv.org/content/10.1101/2024.09.21.614281v1)    | 09/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/YangLabHKUST/BOMS) |
+| [Bering](https://www.nature.com/articles/s41467-025-60898-9)    | 12/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/salk-tm/bering) |
 | [CellSAM](https://www.biorxiv.org/content/10.1101/2023.11.17.567630v5)    | 02/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/vanvalenlab/cellsam) |
+| [Segger](https://www.biorxiv.org/content/10.1101/2025.03.14.643160v1)    | 03/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/EliHei2/segger_dev) |
 
 ---
 
@@ -66,6 +83,21 @@ Tools for annotating and classifying cell types in spatial data.
 | [cellTypist](https://www.science.org/doi/10.1126/science.abl5197)    | 05/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://www.celltypist.org) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Teichlab/celltypist) |
 | [CellAnnotator](https://www.nature.com/articles/s41592-024-02235-4)   | 03/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://cell-annotator.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/quadbio/cell-annotator?tab=readme-ov-file) |
 | [Nico](https://www.nature.com/articles/s41467-024-54973-w)   | 12/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://nico-sc-sp.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://pypi.org/project/nico-sc-sp/) |
+
+---
+
+## 🧩 Cell Deconvolution
+
+Tools for deconvolving cell type composition from spatial transcriptomics data.
+
+| Name       | Released | Documentation | Links |
+| ---------- | -------  | ------------- | ----- |
+| [STdGCN](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03353-0)    | 08/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/QIFEIDKN/STdGCN) |
+| [SpatialcoGCN](https://academic.oup.com/bib/article/25/2/bbae119/7633290)    | 04/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/xiaoyeye/SpatialcoGCN) |
+| [CLPLS](https://academic.oup.com/bib/article/26/1/bbaf052/8006047)    | 02/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/wanglabtongji/CLPLS) |
+| [NODE](https://pmc.ncbi.nlm.nih.gov/articles/PMC11825862/)    | 02/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/QuKunLab/NODE) |
+| [SDePER](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03250-6)    | 05/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/az7jh2/SDePER) |
+| [DECLUST](https://academic.oup.com/nar/article/53/14/gkaf714/8211932)    | 09/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Zhangxf-ccnu/DECLUST) |
 
 ---
 
@@ -84,6 +116,11 @@ Tools for identifying and clustering spatial domains and tissue structures.
 | [SPACEL](https://www.nature.com/articles/s41467-023-43220-3)  | 11/2023 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/QuKunLab/SPACEL) |
 | [CellCharter](https://www.nature.com/articles/s41588-023-01588-4)    | 12/2023 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://cellcharter.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/CSOgroup/cellcharter) |
 | [Banksy](https://www.nature.com/articles/s41588-024-01664-3)   | 02/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/prabhakarlab/Banksy_py) |
+| [SpatialcoGCN](https://academic.oup.com/bib/article/25/2/bbae119/7633290)    | 04/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/xiaoyeye/SpatialcoGCN) |
+| [EnSDD](https://www.nature.com/articles/s42003-024-07001-y)    | 12/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Tang-Lab-super/EnSDD) |
+| [MAEST](https://academic.oup.com/bib/article/doi/10.1093/bib/bbaf086/8058890)    | 03/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/WWW530/MAEST) |
+| [BINARY](https://academic.oup.com/nar/article/53/7/gkaf303/8114322)    | 04/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/xy428/BINARY) |
+| [SR-DGN](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-11072-w)    | 12/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/zhanglabtools/SR-DGN) |
 | [SCGP](https://www.sciencedirect.com/science/article/pii/S266723752400211X?via%3Dihub)    | 08/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://gitlab.com/enable-medicine-public/scgp)|
 | [SpaGT](https://www.sciencedirect.com/science/article/pii/S266723752400211X?via%3Dihub)    | 04/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://spagt-tutorial.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/xy428/SpaGT)|
 
@@ -99,6 +136,11 @@ Tools for imputing missing gene expression values in spatial datasets.
 | [SpaGE](https://academic.oup.com/nar/article/48/18/e107/5909530?login=true)   | 09/2020 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/tabdelaal/SpaGE) |
 | [novoSpaRc](https://www.nature.com/articles/s41596-021-00573-7)    | 08/2021 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/rajewsky-lab/novosparc) |
 | [TANGRAM](https://www.nature.com/articles/s41592-021-01264-7)    | 10/2021 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://tangram-sc.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/broadinstitute/Tangram) |
+| [stMCDI](https://arxiv.org/abs/2403.10863)    | 03/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/lhc17/stMCDI) |
+| [stDiff](https://academic.oup.com/bib/article/25/3/bbae171/7646375)    | 04/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/LiQian-XC/stDiff) |
+| [SpotGF](https://www.sciencedirect.com/science/article/abs/pii/S2405471224002692)    | 09/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/YangLabHKUST/SpotGF) |
+| [stImpute](https://www.nature.com/articles/s42003-024-06964-2)    | 10/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Catchxu/stImpute) |
+| [stGRL](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02290-z)    | 01/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/liuhong-jia/stGRL) |
 
 ---
 
@@ -130,9 +172,12 @@ Tools for analyzing intercellular communication and signaling pathways.
 | [COMMOT](https://www.nature.com/articles/s41592-022-01728-4)    | 01/2023 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://commot.readthedocs.io/en/latest/index.html)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/zcang/COMMOT)|
 | [Holonet](https://academic.oup.com/bib/article/24/6/bbad359/7306826)    | 11/2023 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://holonet-doc.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/lhc17/HoloNet)|
 | [stLearn](https://www.nature.com/articles/s41467-023-43120-6)    | 11/2023 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://stlearn.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/BiomedicalMachineLearning/stLearn)|
+| [TWCOM](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae101/7715000)    | 07/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/jssong-lab/TWCOM)|
+| [SpaCCC](https://www.sciopen.com/article/10.26599/BDMA.2024.9020056)    | 07/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/sulab-wmu/SpaCCC)|
 | [FlowSig](https://www.nature.com/articles/s41592-024-02380-w)    | 08/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/axelalmet/flowsig)|
 | [DeepTalk](https://www.nature.com/articles/s41467-024-51329-2)    | 08/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://deeptalk.readthedocs.io/en/latest/index.html)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/JiangBioLab/DeepTalk) |
 | [LIANA+](https://www.nature.com/articles/s41556-024-01469-w)    | 09/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://liana-py.readthedocs.io/en/latest/index.html)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/saezlab/liana-py) |
+| [SpaGraphCCI](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/syb2.70000)    | 02/2025 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/hxzhard/SpaGraphCCI)|
 | [SpaCcLink](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02141-x)    | 02/2025 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/LiangYu-Xidian/SpaCcLink)|
 | [scNiche](https://www.nature.com/articles/s41467-025-57029-9)    | 02/2025 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ZJUFanLab/scNiche)|
 | [NicheCompass](https://www.nature.com/articles/s41588-025-02120-6)    | 03/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://nichecompass.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Lotfollahi-lab/nichecompass/tree/main)|
@@ -180,9 +225,11 @@ Large-scale pre-trained models for spatial transcriptomics analysis.
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
-| [Nicheformer](https://www.biorxiv.org/content/10.1101/2024.04.15.589472v2)    | 10/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/theislab/nicheformer)|
+| [Nicheformer](https://www.biorxiv.org/content/10.1101/2024.04.15.589472v2)    | 04/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/theislab/nicheformer)|
+| [stFormer](https://www.biorxiv.org/content/10.1101/2024.09.27.615337v7)    | 09/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/BioX-NKU/stFormer)|
 | [scGPT-spatial](https://www.biorxiv.org/content/10.1101/2025.02.05.636714v1)    | 02/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/bowang-lab/scGPT-spatial/tree/main)|
 | [SpatialAgent](https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1)    | 04/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Genentech/SpatialAgent)|
+| [OmiCLIP](https://www.nature.com/articles/s41592-025-02707-1)    | 05/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/mahmoodlab/OMICLIP)|
 
 ---
 
@@ -204,6 +251,8 @@ Additional specialized tools for spatial transcriptomics analysis.
 | [SpaGFT](https://www.nature.com/articles/s41467-024-51590-5)    | 08/2024 | Graph Fourier transform for spatial omics | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://spagft.readthedocs.io/en/latest)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/OSU-BMBL/SpaGFT)|
 | [InSTAnT](https://www.nature.com/articles/s41467-024-49457-w)    | 09/2024 | Intracellular patterns of co-localisation | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/bhavaygg/InSTAnT)|
 | [MuSpan](https://www.biorxiv.org/content/10.1101/2024.12.06.627195v3)    | 02/2025 | Multiscale analysis | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://www.muspan.co.uk)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/joshwillmoore1/MuSpAn-Public)|
+| [STIM](https://www.cell.com/cell-systems/fulltext/S2405-4712(25)00097-3)    | 04/2025 | Visualization and alignment framework | N/A  | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/MahmoodLab/STIM)|
+| [Samui](https://www.cambridge.org/core/journals/biological-imaging/article/performant-webbased-interactive-visualization-tool-for-spatiallyresolved-transcriptomics-experiments/B66303984D10B9E5A23D3656CB8537C0)    | 03/2024 | Web-based interactive visualization | N/A  | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/MicronOxford/samui)|
 | [DeepSpot](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v1)    | 02/2025 | Spatial transcriptomics Prediction from H&E images | N/A  | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ratschlab/DeepSpot/tree/main)|
 | [MESA](https://www.nature.com/articles/s41588-025-02119-z)    | 04/2025 | ecological inspired spatial analysis | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://mesa-py.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Feanor007/MESA)|
 
