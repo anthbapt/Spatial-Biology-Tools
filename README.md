@@ -91,12 +91,12 @@ Tools for deconvolving cell type composition from spatial transcriptomics data.
 
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
-| [STdGCN](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03353-0)    | 08/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/QIFEIDKN/STdGCN) |
-| [SpatialcoGCN](https://academic.oup.com/bib/article/25/2/bbae119/7633290)    | 04/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/xiaoyeye/SpatialcoGCN) |
-| [CLPLS](https://academic.oup.com/bib/article/26/1/bbaf052/8006047)    | 02/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/wanglabtongji/CLPLS) |
-| [NODE](https://pmc.ncbi.nlm.nih.gov/articles/PMC11825862/)    | 02/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/QuKunLab/NODE) |
-| [SDePER](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03250-6)    | 05/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/az7jh2/SDePER) |
-| [DECLUST](https://academic.oup.com/nar/article/53/14/gkaf714/8211932)    | 09/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Zhangxf-ccnu/DECLUST) |
+| [SpatialcoGCN](https://academic.oup.com/bib/article/25/3/bbae130/7638268)   | 05/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/wwYinYin/SpatialcoGCN)|
+| [STdGCN](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03353-0)    | 08/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/luoyuanlab/stdgcn) |
+| [SDePER](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03416-2)    | 10/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://az7jh2.github.io/SDePER/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/az7jh2/SDePER) |
+| [CLPLS](https://academic.oup.com/bib/article/26/1/bbaf052/8006047)    | 02/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/LindsayMo/CLPLS_package) |
+| [NODE](https://www.nature.com/articles/s42003-025-07625-8)   | 02/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/wzdrgi/NODE) |
+| [DECLUST](https://academic.oup.com/nar/article/53/14/gkaf714/8211932)    | 07/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Qingyueee/DECLUST)|
 
 ---
 
