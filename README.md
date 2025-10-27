@@ -132,11 +132,11 @@ Tools for imputing missing gene expression values in spatial datasets.
 | [SpaGE](https://academic.oup.com/nar/article/48/18/e107/5909530?login=true)   | 09/2020 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/tabdelaal/SpaGE) |
 | [novoSpaRc](https://www.nature.com/articles/s41596-021-00573-7)    | 08/2021 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/rajewsky-lab/novosparc) |
 | [TANGRAM](https://www.nature.com/articles/s41592-021-01264-7)    | 10/2021 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://tangram-sc.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/broadinstitute/Tangram) |
-| [stMCDI](https://arxiv.org/abs/2403.10863)    | 03/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/lhc17/stMCDI) |
-| [stDiff](https://academic.oup.com/bib/article/25/3/bbae171/7646375)    | 04/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/LiQian-XC/stDiff) |
-| [SpotGF](https://www.sciencedirect.com/science/article/abs/pii/S2405471224002692)    | 09/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/YangLabHKUST/SpotGF) |
-| [stImpute](https://www.nature.com/articles/s42003-024-06964-2)    | 10/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Catchxu/stImpute) |
-| [stGRL](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02290-z)    | 01/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/liuhong-jia/stGRL) |
+| [stMCDI](https://arxiv.org/abs/2403.10863)    | 03/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/wenwenmin/stMCDI)|
+| [stDiff](https://academic.oup.com/bib/article/25/3/bbae171/7646375)    | 04/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/fdu-wangfeilab/stDiff)|
+| [SpotGF](https://www.sciencedirect.com/science/article/abs/pii/S2405471224002692)    | 10/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/illuminate6060/SpotGF) |
+| [stImpute](https://www.nature.com/articles/s42003-024-06964-2)    | 10/2024 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/cquzys/stImpute)|
+| [stGRL](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02290-z)    | 07/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/luxin-heart/stGRL) |
 
 ---
 
