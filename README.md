@@ -64,10 +64,10 @@ Tools for cell segmentation and boundary detection in spatial transcriptomics da
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
 | [sopa](https://www.nature.com/articles/s41467-024-48981-z)    | 06/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://www.celltypist.org) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://gustaveroussy.github.io/sopa/) |
-| [BOMS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311458)   | 06/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/sciai-lab/boms) |
-| [Bering](https://www.nature.com/articles/s41467-025-60898-9)    | 07/2025 |[<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://bering.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/jian-shu-lab/Bering) |
 | [CellSAM](https://www.biorxiv.org/content/10.1101/2023.11.17.567630v5)    | 02/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/vanvalenlab/cellsam) |
 | [Segger](https://www.biorxiv.org/content/10.1101/2025.03.14.643160v1)    | 03/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/EliHei2/segger_dev) |
+| [BOMS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311458)   | 06/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/sciai-lab/boms) |
+| [Bering](https://www.nature.com/articles/s41467-025-60898-9)    | 07/2025 |[<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://bering.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/jian-shu-lab/Bering) |
 
 ---
 
