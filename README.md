@@ -209,7 +209,8 @@ Tools for integrating multiple data modalities and spatial omics datasets.
 | [Monae](https://www.nature.com/articles/s41467-024-53355-6)    | 10/2024 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/shapsider/monae)|
 | [ISS-Patcher](https://www.nature.com/articles/s41586-024-08189-z)    | 11/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://iss-patcher.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Teichlab/iss_patcher)|
 | [MISO](https://www.nature.com/articles/s41592-024-02574-2)    | 01/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/kpcoleman/miso)|
-| [INSTINCT](https://www.nature.com/articles/s41467-025-56535-0)    | 02/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](N/A)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/yyLIU12138/INSTINCT)|
+| [INSTINCT](https://www.nature.com/articles/s41467-025-56535-0)    | 02/2025 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/yyLIU12138/INSTINCT)|
+| [SMODEL](https://www.nature.com/articles/s42003-025-08372-6) | 06/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/liying-1028/SMODEL)|
 
 ---
 
