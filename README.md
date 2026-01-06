@@ -97,6 +97,7 @@ Tools for deconvolving cell type composition from spatial transcriptomics data.
 | [CLPLS](https://academic.oup.com/bib/article/26/1/bbaf052/8006047)    | 02/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/LindsayMo/CLPLS_package) |
 | [NODE](https://www.nature.com/articles/s42003-025-07625-8)   | 02/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/wzdrgi/NODE) |
 | [DECLUST](https://academic.oup.com/nar/article/53/14/gkaf714/8211932)    | 07/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Qingyueee/DECLUST)|
+| [FlashDeconv](https://doi.org/10.64898/2025.12.22.696108)    | 12/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/cafferychen777/flashdeconv)|
 
 ---
 
