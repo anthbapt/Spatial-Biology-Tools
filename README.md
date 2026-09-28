@@ -12,7 +12,7 @@
 <div align="center">
 
   ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-  ![Tools](https://img.shields.io/badge/Tools-160%2B-green)
+  ![Tools](https://img.shields.io/badge/Tools-170%2B-green)
   ![License](https://img.shields.io/badge/License-MIT-yellow)
   ![Updated](https://img.shields.io/badge/Last%20Updated-September%202026-orange)
 
@@ -115,7 +115,7 @@ Tools for identifying and clustering spatial domains and tissue structures.
 | [SpaGCN](https://www.nature.com/articles/s41592-021-01255-8)    | 10/2021 | N/A| [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/jianhuupenn/SpaGCN) |
 | [STAGATE](https://www.nature.com/articles/s41467-022-29439-6)    | 04/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://stagate.readthedocs.io/en/latest/index.html) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/zhanglabtools/STAGATE) |
 | [CCST](https://www.nature.com/articles/s43588-022-00266-5)    | 06/2022 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/xiaoyeye/CCST)|
-| [SpaceFlow](https://www.nature.com/articles/s41467-022-31739-w)    | 07/2022 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]([https://github.com/JinmiaoChenLab/scTM](https://github.com/hongleir/SpaceFlow))|
+| [SpaceFlow](https://www.nature.com/articles/s41467-022-31739-w)    | 07/2022 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/hongleir/SpaceFlow)|
 | [DeepST](https://academic.oup.com/nar/article/50/22/e131/6761985)   | 12/2022 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/JiangBioLab/DeepST) |
 | [GraphST](https://www.nature.com/articles/s41467-023-36796-3)    | 03/2023 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://deepst-tutorials.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/JinmiaoChenLab/GraphST) |
 | [SPACEL](https://www.nature.com/articles/s41467-023-43220-3)  | 11/2023 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/QuKunLab/SPACEL) |
@@ -153,7 +153,7 @@ Tools for identifying genes with spatial expression patterns.
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
 | [SpatialDE](https://www.nature.com/articles/nmeth.4636)    | 03/2018 | N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Teichlab/SpatialDE) |
-| [Hotspot](https://www.sciencedirect.com/science/article/pii/S2405471221001149)   | 05/2021 |  [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://hotspot.readthedocs.io/en/latest/)  | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">]([https://github.com/prabhakarlab/Banksy_py](https://github.com/yoseflab/hotspot)) |
+| [Hotspot](https://www.sciencedirect.com/science/article/pii/S2405471221001149)   | 05/2021 |  [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://hotspot.readthedocs.io/en/latest/)  | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/yoseflab/hotspot) |
 | [SOMDE](https://academic.oup.com/bioinformatics/article/37/23/4392/6308937)   | 12/2021 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/XuegongLab/somde) |
 | [SINFONIA](https://www.mdpi.com/2073-4409/12/4/604)    | 02/2023 |  [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://sinfonia-svg.readthedocs.io/en/latest/index.html) |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/BioX-NKU/SINFONIA) |
 | [Maxspin](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00136-4)    | 06/2023 |  N/A |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/dcjones/maxspin) |
@@ -260,6 +260,8 @@ Additional specialized tools for spatial transcriptomics analysis.
 | [METASPACE converter](https://github.com/metaspace2020/metaspace-converter) ★    | 08/2023 | Converts METASPACE datasets to SpatialData/AnnData | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://metaspace2020.github.io/metaspace-converter/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/metaspace2020/metaspace-converter) |
 | [Thyra](https://github.com/M4i-Imaging-Mass-Spectrometry/thyra) ★    | 10/2024 | Converts MSI to SpatialData/Zarr | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://M4i-Imaging-Mass-Spectrometry.github.io/thyra) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/M4i-Imaging-Mass-Spectrometry/thyra) |
 | [spatial-mechano-transcriptomics](https://github.com/PiggyJerry/spatial-mechano-transcriptomics)    | 2026 | Mechanobiology + spatial transcriptomics | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/PiggyJerry/spatial-mechano-transcriptomics) |
+| [spatialdata-io](https://github.com/scverse/spatialdata-io) ★    | 2024 | Imports spatial datasets into SpatialData objects | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://spatialdata-io.readthedocs.io/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/scverse/spatialdata-io) |
+| [napari-spatialdata](https://github.com/scverse/napari-spatialdata) ★    | 2024 | Visualization and exploration of SpatialData objects in napari | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://github.com/scverse/napari-spatialdata) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/scverse/napari-spatialdata) |
 
 ---
 
