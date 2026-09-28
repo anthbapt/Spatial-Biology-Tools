@@ -12,9 +12,9 @@
 <div align="center">
 
   ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-  ![Tools](https://img.shields.io/badge/Tools-150%2B-green)
+  ![Tools](https://img.shields.io/badge/Tools-160%2B-green)
   ![License](https://img.shields.io/badge/License-MIT-yellow)
-  ![Updated](https://img.shields.io/badge/Last%20Updated-July%202026-orange)
+  ![Updated](https://img.shields.io/badge/Last%20Updated-September%202026-orange)
 
 </div>
 
@@ -22,7 +22,8 @@
 
 <div align="center">
 
-> **Note**: The following tools are Python-based and suitable for working with [**SpatialData**](https://spatialdata.scverse.org/en/stable/tutorials/notebooks/notebooks/examples/intro.html) objects or compatible objects such as [**AnnData**](https://anndata.readthedocs.io/en/stable/index.html) (used in Scanpy and Squidpy).
+> **Note**: The following tools are Python-based and suitable for working with [**SpatialData**](https://spatialdata.scverse.org/en/stable/tutorials/notebooks/notebooks/examples/intro.html) objects or compatible objects such as [**AnnData**](https://anndata.readthedocs.io/en/stable/index.html) (used in Scanpy and Squidpy).  
+> **★** marks explicit SpatialData-compatible or SpatialData-conversion tools.
 
 </div>
 
@@ -68,6 +69,7 @@ Tools for cell segmentation and boundary detection in spatial transcriptomics da
 | [Segger](https://www.biorxiv.org/content/10.1101/2025.03.14.643160v1)    | 03/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/EliHei2/segger_dev) |
 | [BOMS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311458)   | 06/2025 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/sciai-lab/boms) |
 | [Bering](https://www.nature.com/articles/s41467-025-60898-9)    | 07/2025 |[<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://bering.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/jian-shu-lab/Bering) |
+| [CellSurvey](https://github.com/FrancisCrickInstitute/CellSurvey) ★    | 02/2026 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://github.com/FrancisCrickInstitute/CellSurvey) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/FrancisCrickInstitute/CellSurvey) |
 
 ---
 
@@ -82,6 +84,7 @@ Tools for annotating and classifying cell types in spatial data.
 | [cellTypist](https://www.science.org/doi/10.1126/science.abl5197)    | 05/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://www.celltypist.org) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Teichlab/celltypist) |
 | [CellAnnotator](https://www.nature.com/articles/s41592-024-02235-4)   | 03/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://cell-annotator.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/quadbio/cell-annotator?tab=readme-ov-file) |
 | [Nico](https://www.nature.com/articles/s41467-024-54973-w)   | 12/2024 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://nico-sc-sp.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://pypi.org/project/nico-sc-sp/) |
+| [TrueCell](https://github.com/GenomicAI/truecell)    | 06/2026 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/GenomicAI/truecell) |
 
 ---
 
@@ -108,6 +111,7 @@ Tools for identifying and clustering spatial domains and tissue structures.
 | Name       | Released | Documentation | Links |
 | ---------- | -------  | ------------- | ----- |
 | [AESTETIK](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433)    | 2026 | N/A| [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ratschlab/aestetik) |
+| [BREST](https://github.com/yujingkun1/BREST)    | 07/2026 | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/yujingkun1/BREST) |
 | [SpaGCN](https://www.nature.com/articles/s41592-021-01255-8)    | 10/2021 | N/A| [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/jianhuupenn/SpaGCN) |
 | [STAGATE](https://www.nature.com/articles/s41467-022-29439-6)    | 04/2022 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://stagate.readthedocs.io/en/latest/index.html) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/zhanglabtools/STAGATE) |
 | [CCST](https://www.nature.com/articles/s43588-022-00266-5)    | 06/2022 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/xiaoyeye/CCST)|
@@ -253,6 +257,9 @@ Additional specialized tools for spatial transcriptomics analysis.
 | [DeepSpot2Cell](https://openreview.net/forum?id=ofCkwXQKaz)    | 12/2025 | Virtual single-cell spatial transcriptomics from H&E images | N/A  | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ratschlab/DeepSpot2Cell)|
 |[InSituPy](https://www.biorxiv.org/content/10.1101/2025.03.07.641860v1) | 03/2025 | histology-guided, multi-sample analysis of single-cell spatial transcriptomics |[<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://insitupy.readthedocs.io/en/latest/) |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/SpatialPathology/InSituPy) |
 | [MESA](https://www.nature.com/articles/s41588-025-02119-z)    | 04/2025 | ecological inspired spatial analysis | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://mesa-py.readthedocs.io/en/latest/)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/Feanor007/MESA)|
+| [METASPACE converter](https://github.com/metaspace2020/metaspace-converter) ★    | 08/2023 | Converts METASPACE datasets to SpatialData/AnnData | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://metaspace2020.github.io/metaspace-converter/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/metaspace2020/metaspace-converter) |
+| [Thyra](https://github.com/M4i-Imaging-Mass-Spectrometry/thyra) ★    | 10/2024 | Converts MSI to SpatialData/Zarr | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://M4i-Imaging-Mass-Spectrometry.github.io/thyra) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/M4i-Imaging-Mass-Spectrometry/thyra) |
+| [spatial-mechano-transcriptomics](https://github.com/PiggyJerry/spatial-mechano-transcriptomics)    | 2026 | Mechanobiology + spatial transcriptomics | N/A | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/PiggyJerry/spatial-mechano-transcriptomics) |
 
 ---
 
