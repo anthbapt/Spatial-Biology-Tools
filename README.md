@@ -70,6 +70,7 @@ Tools for cell segmentation and boundary detection in spatial transcriptomics da
 | [Bering](https://www.nature.com/articles/s41467-025-60898-9)    | 07/2025 |[<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://bering.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/jian-shu-lab/Bering) |
 | [CellSAM](https://www.nature.com/articles/s41592-025-02879-w)    | 12/2025 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://vanvalenlab.github.io/cellSAM/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/vanvalenlab/cellsam) |
 | [CellSurvey](https://github.com/FrancisCrickInstitute/CellSurvey) ★    | 02/2026 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://cell-survey.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/FrancisCrickInstitute/CellSurvey) |
+| [CellArt](https://github.com/YangLabHKUST/CellART)    | 10/2026 | [<img src="https://brand-guidelines.readthedocs.org/_images/logo-dark.png" width="20">](https://cellart.readthedocs.io/en/latest/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/YangLabHKUST/CellART)|
 
 ---
 
