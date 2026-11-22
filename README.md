@@ -233,6 +233,9 @@ Large-scale pre-trained models for spatial transcriptomics analysis.
 | [Nicheformer](https://www.nature.com/articles/s41592-025-02814-z)    | 10/2025 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/theislab/nicheformer)|
 | [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)    | 06/2026 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ratschlab/DeepSpotM)|
 | [stFormer](https://doi.org/10.1016/j.crmeth.2026.101612)    | 09/2026 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/csh3/stFormer)|
+| [DeepSpot-M kidney (KPMP)](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)    | 11/2026 | N/A  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ratschlab/projects2026-kidney-kpmp-analysis)|
+| [KPMP virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas)    | 11/2026 | [paper](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ratschlab/DeepSpotM)|
+| [KPMP Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics)    | 11/2026 | [paper](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)  |  [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20">](https://github.com/ratschlab/DeepSpotM)|
 
 ---
 
